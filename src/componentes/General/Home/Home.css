@@ -1,0 +1,65 @@
+.CarCont{
+    width: 700px !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.Nosotros{
+    width: 80%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+}
+
+.Nosotros-titulo{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #f4305b;
+}
+
+.Nosotros-p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    padding: 30px;
+    color: grey;
+    letter-spacing: 1px;
+}
+
+.RedCont{
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.RedCont-insta, .RedCont-cel{
+    padding: 20px;
+}
+.instagram,.phone{
+    font-size: 50px;
+    color: gray;
+    
+}
+.name-insta{
+    padding: 10px;
+}
+.phone{
+    font-size: 60px;
+}
+
+.phone, .number{
+    display: inline;
+    padding: 10px;
+}
+
+.compRedes{
+    margin-left: auto;
+    margin-right: auto;
+}
