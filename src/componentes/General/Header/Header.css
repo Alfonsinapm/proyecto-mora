@@ -46,7 +46,6 @@ li {
     font-size: 18px;
 }
 li:hover{
-    
-    transform: scale(1.2, 1.2)
-    
+    transform: scale(1.2, 1.2);
+    border-bottom: solid 2px #f4305b;
 }
