@@ -25,6 +25,7 @@ function ItemListContainer() {
 
     useEffect(
         () => llamadoProductos(),
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         [categ]
     )
     return (

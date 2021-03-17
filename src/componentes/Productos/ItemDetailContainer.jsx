@@ -6,14 +6,12 @@ import { useState, useEffect } from 'react';
 
 const ItemDetailContainer = () => {
     const [producto, setProducto] = useState([]);
-    let [item, setItem] = useState([]);
+    
     const { itemid } = useParams()
-
+    
     const promesaProducto = new Promise((resolve, reject) => {
-        setTimeout(() => {
-            const prodSeleccionado = Productos.find(producto => producto.Id == itemid)
+            const prodSeleccionado = Productos.find(producto => Number(producto.id) === Number(itemid))
             resolve(prodSeleccionado);
-        }, 2000)
     })
 
     const llamadoProducto = () => {
@@ -21,21 +19,22 @@ const ItemDetailContainer = () => {
     }
     useEffect(() => {
         llamadoProducto();
-    }, []);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [itemid]);
 
     return (
-        <section className="container" id="ItemDetailContainer">
+        <section className="container">
             {
-                item.length ?
+                producto   ?
                     <div className="container-fluid" id="ItemDetail">
                         {
-                            item.map(item => (
+                            
                                 <ItemDetail
-                                    key={item.id}
-                                    img={item.foto}
-                                    nombre={item.nombre}
+                                    key={producto.id}
+                                    img={producto.foto}
+                                    nombre={producto.nombre}
                                 />
-                            ))
+                           
                         }
                     </div>
                     :

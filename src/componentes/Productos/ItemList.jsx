@@ -2,7 +2,6 @@ import './ItemListStyles.css'
 import { Link } from 'react-router-dom'
 
 function ItemList({ producto }) {
-    console.log(producto.foto)
     return (
 
         <article className="mx-auto  col-12 col-md-4 art">
