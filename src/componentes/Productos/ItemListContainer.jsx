@@ -31,7 +31,7 @@ function ItemListContainer() {
         <section className="container" id="ItemDetailContainer">
 
             {
-                producto ?
+                producto.length ?
                     <>
                         <div className="row" id="ItemDetail">
                             {
