@@ -54,9 +54,9 @@ import foto51 from '../../assets2/almohadas/a27.jpg'
 import foto52 from '../../assets2/almohadas/a28.jpg'
 
 import foto53 from '../../assets2/colchones/azul2.jpg'
-import foto54 from '../../assets2/colchones/celeste.jpg'
-import foto55 from '../../assets2/colchones/flores.jpg'
-import foto56 from '../../assets2/colchones/rosa.jpg'
+import foto54 from '../../assets2/colchones/celeste2.jpg'
+import foto55 from '../../assets2/colchones/flores2.jpg'
+import foto56 from '../../assets2/colchones/rosa2.jpg'
 
 import foto57 from '../../assets2/juegos/hamaca1.jpg'
 import foto58 from '../../assets2/juegos/hamaca2.jpg'
@@ -64,38 +64,38 @@ import foto59 from '../../assets2/juegos/hamaca3.jpg'
 import foto60 from '../../assets2/juegos/hamaca4.jpg'
 import foto61 from '../../assets2/juegos/hamaca5.jpg'
 
-import foto62 from '../../assets2/juegos/j1.jpeg'
+import foto62 from '../../assets2/juegos/j1.jpg'
 import foto63 from '../../assets2/juegos/j2.jpeg'
 import foto64 from '../../assets2/juegos/j3.jpeg'
-import foto65 from '../../assets2/juegos/j4.jpeg'
-import foto66 from '../../assets2/juegos/j5.jpeg'
+import foto65 from '../../assets2/juegos/j4.jpg'
+import foto66 from '../../assets2/juegos/j5.jpg'
 
-import foto67 from '../../assets2/juegos/Pelota montessori amarilla y celeste.jpg'
-import foto68 from '../../assets2/juegos/Pelota montessori amarilla y rosa.jpg'
-import foto69 from '../../assets2/juegos/Pelota montessori blanca.jpg'
-import foto70 from '../../assets2/juegos/Pelota montessori celeste.jpg'
-import foto71 from '../../assets2/juegos/Pelota montessori combinada.jpg'
+// import foto67 from '../../assets2/juegos/Pelota montessori amarilla y celeste.jpg'
+// import foto68 from '../../assets2/juegos/Pelota montessori amarilla y rosa.jpg'
+// import foto69 from '../../assets2/juegos/Pelota montessori blanca.jpg'
+// import foto70 from '../../assets2/juegos/Pelota montessori celeste.jpg'
+// import foto71 from '../../assets2/juegos/Pelota montessori combinada.jpg'
 
-import foto73 from '../../assets2/juegos/Almohadones para pintar 1.jpg'
-import foto74 from '../../assets2/juegos/Almohadones para pintar 2.jpg'
-import foto75 from '../../assets2/juegos/Almohadones para pintar 3.jpg'
+// import foto73 from '../../assets2/juegos/Almohadones para pintar 1.jpg'
+// import foto74 from '../../assets2/juegos/Almohadones para pintar 2.jpg'
+// import foto75 from '../../assets2/juegos/Almohadones para pintar 3.jpg'
 
-import foto76 from '../../assets2/juegos/Juego con dado y fichas 3.jpg'
+// import foto76 from '../../assets2/juegos/Juego con dado y fichas 3.jpg'
 
-import foto77 from '../../assets2/juegos/Muñeco de apego beige.jpg'
-import foto78 from '../../assets2/juegos/Muñeco de apego estampado.jpeg'
-import foto79 from '../../assets2/juegos/Muñeco de apego gris.jpg'
-import foto80 from '../../assets2/juegos/Muñeco de apego lila 1.jpg'
-import foto81 from '../../assets2/juegos/Muñeco de apego.jpg'
+// import foto77 from '../../assets2/juegos/Muñeco de apego beige.jpg'
+// import foto78 from '../../assets2/juegos/Muñeco de apego estampado.jpeg'
+// import foto79 from '../../assets2/juegos/Muñeco de apego gris.jpg'
+// import foto80 from '../../assets2/juegos/Muñeco de apego lila 1.jpg'
+// import foto81 from '../../assets2/juegos/Muñeco de apego.jpg'
 
-import foto82 from '../../assets2/juegos/Puzle pajaro.jpg'
-import foto83 from '../../assets2/juegos/Puzle pera.jpg'
-import foto84 from '../../assets2/juegos/Puzle sandia.jpg'
-import foto85 from '../../assets2/juegos/Puzle pez.jpg'
+// import foto82 from '../../assets2/juegos/Puzle pajaro.jpg'
+// import foto83 from '../../assets2/juegos/Puzle pera.jpg'
+// import foto84 from '../../assets2/juegos/Puzle sandia.jpg'
+// import foto85 from '../../assets2/juegos/Puzle pez.jpg'
 
 
 
-export const ListaProductos = [
+export const Productos = [
     {
         id: 1,
         nombre: "Chichonera",
@@ -418,25 +418,25 @@ export const ListaProductos = [
         id: 53,
         nombre: "Colchón",
         foto: foto53,
-        categoria: "almohadas",
+        categoria: "colchones",
     },
     {
         id: 54,
         nombre: "Colchón",
         foto: foto54,
-        categoria: "almohadas",
+        categoria: "colchones",
     },
     {
         id: 55,
         nombre: "Colchón",
         foto: foto55,
-        categoria: "almohadas",
+        categoria: "colchones",
     },
     {
         id: 56,
         nombre: "Colchón",
         foto: foto56,
-        categoria: "almohadas",
+        categoria: "colchones",
     },
     {
         id: 57,
@@ -485,19 +485,19 @@ export const ListaProductos = [
         nombre: "Hamaca",
         foto: foto64,
         categoria: "juegos",
-    },
-    {
-        id: 65,
-        nombre: "Hamaca",
-        foto: foto65,
-        categoria: "juegos",
-    },
-    {
-        id: 66,
-        nombre: "Hamaca",
-        foto: foto66,
-        categoria: "juegos",
-    },
+    }
+    // {
+    //     id: 65,
+    //     nombre: "Hamaca",
+    //     foto: foto65,
+    //     categoria: "juegos",
+    // },
+    // {
+    //     id: 66,
+    //     nombre: "Hamaca",
+    //     foto: foto66,
+    //     categoria: "juegos",
+    // },
 
 
 ]

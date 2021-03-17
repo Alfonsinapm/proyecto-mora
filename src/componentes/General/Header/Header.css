@@ -6,7 +6,7 @@
     font-family: 'Bebas Neue', cursive;
     font-family: 'Poppins', sans-serif;
     font-family: 'Montserrat', sans-serif;
-    
+    margin-bottom: 30px;
     letter-spacing: 2px;
     font-weight: bold;
 }
@@ -45,7 +45,25 @@ li {
     text-transform: uppercase;
     font-size: 18px;
 }
+.liHeader{
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    vertical-align: auto;
+    color: gray;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}
+.liHeader:hover{
+    text-decoration: none;
+    transform: scale(1.2, 1.2);
+    border-bottom: solid 2px #f4305b;
+    color: gray;
+}
+
 li:hover{
+    text-decoration: none;
     transform: scale(1.2, 1.2);
     border-bottom: solid 2px #f4305b;
 }

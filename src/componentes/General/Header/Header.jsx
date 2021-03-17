@@ -13,14 +13,14 @@ const Header = () => {
             </figure>
             <nav className="nav">
                 <ul className="nav-ul">
-                    <li>accesorios</li>
-                    <li>mantas</li>
-                    <li>almohadones</li>
-                    <li>colchones</li>
-                    <li>juegos</li>
-                    <li>mobiliario</li>
-                    <li>nidos</li>
-                    <li>ropa</li>
+                    <Link className="liHeader" to={"/categoria/accesorios"}>accesorios</Link>
+                    <Link className="liHeader" to={"/categoria/mantas"}>mantas</Link>
+                    <Link className="liHeader" to={"/categoria/almohadas"}>almohadones</Link>
+                    <Link className="liHeader" to={"/categoria/colchones"}>colchones</Link>
+                    <Link className="liHeader" to={"/categoria/juegos"}>juegos</Link>
+                    <Link className="liHeader" to={"/categoria/mobiliario"}>mobiliario</Link>
+                    <Link className="liHeader" to={"/categoria/nidos"}>nidos</Link>
+                    <Link className="liHeader" to={"/categoria/ropa"}>ropa</Link>
                 </ul>
             </nav>
         </header>

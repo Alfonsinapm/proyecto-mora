@@ -1,5 +1,5 @@
 import './Footer.css'
- import { AiFillHeart } from "react-icons/ai";
+
 const Footer = () => {
     return (
         <footer className="footer">
