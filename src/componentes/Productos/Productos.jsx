@@ -70,28 +70,28 @@ import foto64 from '../../assets2/juegos/j3.jpeg'
 import foto65 from '../../assets2/juegos/j4.jpg'
 import foto66 from '../../assets2/juegos/j5.jpg'
 
-// import foto67 from '../../assets2/juegos/Pelota montessori amarilla y celeste.jpg'
-// import foto68 from '../../assets2/juegos/Pelota montessori amarilla y rosa.jpg'
-// import foto69 from '../../assets2/juegos/Pelota montessori blanca.jpg'
-// import foto70 from '../../assets2/juegos/Pelota montessori celeste.jpg'
-// import foto71 from '../../assets2/juegos/Pelota montessori combinada.jpg'
+import foto67 from '../../assets2/juegos/Pelota montessori amarilla y celeste.jpg'
+import foto68 from '../../assets2/juegos/Pelota montessori amarilla y rosa 1.jpg'
+import foto69 from '../../assets2/juegos/Pelota montessori blanca.jpg'
+import foto70 from '../../assets2/juegos/Pelota montessori celeste.jpg'
+import foto71 from '../../assets2/juegos/Pelota montessori combinada.jpg'
 
-// import foto73 from '../../assets2/juegos/Almohadones para pintar 1.jpg'
-// import foto74 from '../../assets2/juegos/Almohadones para pintar 2.jpg'
-// import foto75 from '../../assets2/juegos/Almohadones para pintar 3.jpg'
+import foto73 from '../../assets2/juegos/Almohadones para pintar 1.jpg'
+import foto74 from '../../assets2/juegos/Almohadones para pintar 2.jpg'
+import foto75 from '../../assets2/juegos/Almohadones para pintar 3.jpg'
 
-// import foto76 from '../../assets2/juegos/Juego con dado y fichas 3.jpg'
+import foto76 from '../../assets2/juegos/Juego con dado y fichas 3.jpg'
 
-// import foto77 from '../../assets2/juegos/Muñeco de apego beige.jpg'
-// import foto78 from '../../assets2/juegos/Muñeco de apego estampado.jpeg'
-// import foto79 from '../../assets2/juegos/Muñeco de apego gris.jpg'
-// import foto80 from '../../assets2/juegos/Muñeco de apego lila 1.jpg'
-// import foto81 from '../../assets2/juegos/Muñeco de apego.jpg'
+import foto77 from '../../assets2/juegos/Muñeco de apego beige.jpg'
+import foto78 from '../../assets2/juegos/Muñeco de apego estampado.jpeg'
+import foto79 from '../../assets2/juegos/Muñeco de apego gris.jpg'
+import foto80 from '../../assets2/juegos/Muñeco de apego lila 1.jpg'
+import foto81 from '../../assets2/juegos/Muñeco de apego.jpg'
 
-// import foto82 from '../../assets2/juegos/Puzle pajaro.jpg'
-// import foto83 from '../../assets2/juegos/Puzle pera.jpg'
-// import foto84 from '../../assets2/juegos/Puzle sandia.jpg'
-// import foto85 from '../../assets2/juegos/Puzle pez.jpg'
+import foto82 from '../../assets2/juegos/Puzle pajaro.jpg'
+import foto83 from '../../assets2/juegos/Puzle pera.jpg'
+import foto84 from '../../assets2/juegos/Puzle sandia.jpg'
+import foto85 from '../../assets2/juegos/Puzzle pez.jpg'
 
 
 
@@ -485,19 +485,127 @@ export const Productos = [
         nombre: "Hamaca",
         foto: foto64,
         categoria: "juegos",
-    }
-    // {
-    //     id: 65,
-    //     nombre: "Hamaca",
-    //     foto: foto65,
-    //     categoria: "juegos",
-    // },
-    // {
-    //     id: 66,
-    //     nombre: "Hamaca",
-    //     foto: foto66,
-    //     categoria: "juegos",
-    // },
+    },
+    {
+        id: 65,
+        nombre: "Hamaca",
+        foto: foto65,
+        categoria: "juegos",
+    },
+    {
+        id: 66,
+        nombre: "Hamaca",
+        foto: foto66,
+        categoria: "juegos",
+    },
+    {
+        id: 67,
+        nombre: "Pelota montessori",
+        foto: foto67,
+        categoria: "juegos",
+    },
+    {
+        id: 68,
+        nombre: "Pelota montessori",
+        foto: foto68,
+        categoria: "juegos",
+    },
+    {
+        id: 69,
+        nombre: "Pelota montessori",
+        foto: foto69,
+        categoria: "juegos",
+    },
+    {
+        id: 70,
+        nombre: "Pelota montessori",
+        foto: foto70,
+        categoria: "juegos",
+    },
+    {
+        id: 71,
+        nombre: "Pelota montessori",
+        foto: foto71,
+        categoria: "juegos",
+    },
+    {
+        id: 73,
+        nombre: "Almohadones para pintar",
+        foto: foto73,
+        categoria: "juegos",
+    },
+    {
+        id: 74,
+        nombre: "Almohadones para pintar",
+        foto: foto74,
+        categoria: "juegos",
+    },
+    {
+        id: 75,
+        nombre: "Almohadones para pintar",
+        foto: foto75,
+        categoria: "juegos",
+    },
+    {
+        id: 76,
+        nombre: "Juego con dado y fichas",
+        foto: foto76,
+        categoria: "juegos",
+    },
+    {
+        id: 77,
+        nombre: "Muñeco",
+        foto: foto77,
+        categoria: "juegos",
+    },
+    {
+        id: 78,
+        nombre: "Muñeco",
+        foto: foto78,
+        categoria: "juegos",
+    },
+    {
+        id: 79,
+        nombre: "Muñeco",
+        foto: foto79,
+        categoria: "juegos",
+    },
+    {
+        id: 80,
+        nombre: "Muñeco",
+        foto: foto80,
+        categoria: "juegos",
+    },
+    {
+        id: 81,
+        nombre: "Muñeco",
+        foto: foto81,
+        categoria: "juegos",
+    },
+    {
+        id: 82,
+        nombre: "Puzzle pájaro",
+        foto: foto82,
+        categoria: "juegos",
+    },
+    {
+        id: 83,
+        nombre: "Puzzle pera",
+        foto: foto83,
+        categoria: "juegos",
+    },
+    {
+        id: 84,
+        nombre: "Puzzle sandia",
+        foto: foto84,
+        categoria: "juegos",
+    },
+    {
+        id: 85,
+        nombre: "Puzzle pez",
+        foto: foto85,
+        categoria: "juegos",
+    },
 
-
+    
 ]

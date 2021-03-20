@@ -8,10 +8,15 @@ function ItemListContainer() {
     const [producto, setProductos] = useState([]);
 
     const { categ } = useParams();
-    console.log(categ)
+    
 
     const promesaProd = new Promise((resolve, reject) => {
-        setTimeout(() => resolve(Productos), 2000)
+        resolve(Productos);
+        reject(new Error('fail')).then(function() {
+            // not called
+          }, function(error) {
+            console.error(error); // Stacktrace
+          });
     })
 
     const llamadoProductos = () => {

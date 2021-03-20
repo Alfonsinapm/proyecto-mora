@@ -12,6 +12,11 @@ const ItemDetailContainer = () => {
     const promesaProducto = new Promise((resolve, reject) => {
             const prodSeleccionado = Productos.find(producto => Number(producto.id) === Number(itemid))
             resolve(prodSeleccionado);
+            reject(new Error('fail')).then(function() {
+                // not called
+              }, function(error) {
+                console.error(error); // Stacktrace
+              });
     })
 
     const llamadoProducto = () => {
@@ -23,7 +28,7 @@ const ItemDetailContainer = () => {
     }, [itemid]);
 
     return (
-        <section className="container">
+        <section className="container contTotal">
             {
                 producto   ?
                     <div className="container-fluid" id="ItemDetail">
