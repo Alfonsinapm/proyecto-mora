@@ -15,6 +15,7 @@ import foto14 from '../../assets2/Accesorios/14.jpg'
 import foto15 from '../../assets2/Accesorios/15.jpg'
 import foto16 from '../../assets2/Accesorios/16.jpg'
 import foto17 from '../../assets2/Accesorios/17.jpg'
+import foto92 from '../../assets2/Accesorios/ca(1).jpg'
 
 import foto18 from '../../assets2/MANTA CAPULLO/manta1.jpeg'
 import foto19 from '../../assets2/MANTA CAPULLO/manta2.jpeg'
@@ -93,7 +94,12 @@ import foto83 from '../../assets2/juegos/Puzle pera.jpg'
 import foto84 from '../../assets2/juegos/Puzle sandia.jpg'
 import foto85 from '../../assets2/juegos/Puzzle pez.jpg'
 
+import foto86 from '../../assets2/MORA MOBILIARIO/muebles.jpg'
 
+import foto87 from '../../assets2/niditos/ni1.jpg'
+import foto88 from '../../assets2/niditos/ni2.jpg'
+import foto89 from '../../assets2/niditos/ni3.jpeg'
+import foto90 from '../../assets2/niditos/ni4.jpg'
 
 export const Productos = [
     {
@@ -184,6 +190,12 @@ export const Productos = [
         id: 15,
         nombre: "Gorros",
         foto: foto15,
+        categoria: "accesorios",
+    },
+    {
+        id: 92,
+        nombre: "Gorros",
+        foto: foto92,
         categoria: "accesorios",
     },
     {
@@ -605,6 +617,36 @@ export const Productos = [
         nombre: "Puzzle pez",
         foto: foto85,
         categoria: "juegos",
+    },
+    {
+        id: 86,
+        nombre: "Muebles",
+        foto: foto86,
+        categoria: "mobiliario",
+    },
+    {
+        id: 87,
+        nombre: "Nidos",
+        foto: foto87,
+        categoria: "nidos",
+    },
+    {
+        id: 88,
+        nombre: "Nidos",
+        foto: foto88,
+        categoria: "nidos",
+    },
+    {
+        id: 90,
+        nombre: "Nidos",
+        foto: foto90,
+        categoria: "nidos",
+    },
+    {
+        id: 89,
+        nombre: "Nidos",
+        foto: foto89,
+        categoria: "nidos",
     },
 
     

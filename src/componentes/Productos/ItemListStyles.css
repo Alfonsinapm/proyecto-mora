@@ -4,31 +4,32 @@
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
     color: gray;
+    margin: 15px;
 }
 
 .ver {
     text-decoration: none;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 3px 30px;
+    /* border: solid 1px #f4305b; */
+    border-radius: 50px;
     margin: 20px;
     text-transform: uppercase;
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
-    color: #f4305b;
+    color: white;
     font-weight: bold;
-   
-    
+    background-color: #f4305b;
+    transition: 0.5s;
 }
 
 .ver:hover {
     text-decoration: none;
-    background-color: #f4305b;
+    /* background-color: #f4305b; */
+    /* color: white; */
     color: white;
-    border: none
+    border: none;
+    box-shadow:  0 0 0 2px #cf002d
 }
-
 
 /* detail */
 
@@ -39,15 +40,16 @@
 
 .detailContainer-imgFigure {
     /* width: 50%; */
-    
     padding: 30px;
 }
-.art{
+
+.art {
     margin: 20px;
-    box-shadow:3px 3px 70px 10px rgb(238, 237, 237);  
+    box-shadow: 3px 3px 70px 10px rgb(219, 217, 217);
     padding: 20px;
 }
-.detailContainer{
+
+.detailContainer {
     width: 50%;
     /* border: solid 1px grey; */
     border-radius: 15px;
@@ -56,8 +58,34 @@
     margin-top: 80px;
     margin-bottom: 50px;
     margin-bottom: 50px;
-    box-shadow:3px 3px 70px 10px rgb(200, 200, 200);  
+    box-shadow: 3px 3px 70px 10px rgb(200, 200, 200);
+}
+
+.volver {
+    position: absolute;
+    left: 100px;
+    text-decoration: none;
+    padding: 3px 30px;
+    border: solid 1px transparent;
+    border-radius: 50px;
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    background-color: #f4305b;
+    transition: 0.5s;
     
 }
 
-
+.volver:hover{
+    position: absolute;
+    left: 100px;
+    text-decoration: none;
+    /* background-color: #f4305b; */
+    /* color: white; */
+    color: white;
+    border: none;
+    box-shadow:  0 0 0 2px #cf002d
+}
