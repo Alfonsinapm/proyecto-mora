@@ -101,6 +101,8 @@ import foto88 from '../../assets2/niditos/ni2.jpg'
 import foto89 from '../../assets2/niditos/ni3.jpeg'
 import foto90 from '../../assets2/niditos/ni4.jpg'
 
+
+
 export const Productos = [
     {
         id: 1,
@@ -427,9 +429,9 @@ export const Productos = [
         categoria: "almohadas",
     },
     {
-        id: 53,
+        id: 56,
         nombre: "Colchón",
-        foto: foto53,
+        foto: foto56,
         categoria: "colchones",
     },
     {
@@ -445,9 +447,9 @@ export const Productos = [
         categoria: "colchones",
     },
     {
-        id: 56,
+        id: 53,
         nombre: "Colchón",
-        foto: foto56,
+        foto: foto53,
         categoria: "colchones",
     },
     {

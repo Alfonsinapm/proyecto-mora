@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 
 
 const ItemDetailContainer = () => {
-    const [producto, setProducto] = useState([]);
+    const [producto, setProducto] = useState(null);
     
     const { itemid } = useParams()
     
@@ -30,7 +30,7 @@ const ItemDetailContainer = () => {
     return (
         <section className="container contTotal">
             {
-                producto   ?
+                producto !=null ?
                     <div className="container-fluid" id="ItemDetail">
                         {
                             
