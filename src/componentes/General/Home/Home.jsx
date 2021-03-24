@@ -9,6 +9,7 @@ const Home = () => {
             <Carrousel/>
             <Nosotros/>
             <Redes className="compRedes"/>
+           
         </div>
     )
 }

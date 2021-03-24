@@ -106,7 +106,7 @@ import foto90 from '../../assets2/niditos/ni4.jpg'
 export const Productos = [
     {
         id: 1,
-        nombre: "Chichonera",
+        nombre: "Chichonera de trenza en algodon",
         foto: foto1,
         categoria: "accesorios",
     },
@@ -118,43 +118,43 @@ export const Productos = [
     },
     {
         id: 3,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal y babero bandana",
         foto: foto3,
         categoria: "accesorios",
     },
     {
         id: 4,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto4,
         categoria: "accesorios",
     },
     {
         id: 5,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto5,
         categoria: "accesorios",
     },
     {
         id: 6,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto6,
         categoria: "accesorios",
     },
     {
         id: 7,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto7,
         categoria: "accesorios",
     },
     {
         id: 8,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto8,
         categoria: "accesorios",
     },
     {
         id: 9,
-        nombre: "Cubrepañal",
+        nombre: "Cubrepañal babero bandana",
         foto: foto9,
         categoria: "accesorios",
     },
@@ -172,31 +172,31 @@ export const Productos = [
     },
     {
         id: 12,
-        nombre: "Gorros",
+        nombre: "Conjunto de algodon de primera muda",
         foto: foto12,
         categoria: "accesorios",
     },
     {
         id: 13,
-        nombre: "Gorros",
+        nombre: "Gorro y mitones",
         foto: foto13,
         categoria: "accesorios",
     },
     {
         id: 14,
-        nombre: "Gorros",
+        nombre: "Gorro",
         foto: foto14,
         categoria: "accesorios",
     },
     {
         id: 15,
-        nombre: "Gorros",
+        nombre: "Gorro y mitones",
         foto: foto15,
         categoria: "accesorios",
     },
     {
         id: 92,
-        nombre: "Gorros",
+        nombre: "Capota",
         foto: foto92,
         categoria: "accesorios",
     },
@@ -232,7 +232,7 @@ export const Productos = [
     },
     {
         id: 21,
-        nombre: "Manta capullo",
+        nombre: "Manta capullo con muñeco de apego",
         foto: foto21,
         categoria: "mantas",
     },
@@ -292,7 +292,7 @@ export const Productos = [
     },
     {
         id: 31,
-        nombre: "Almohada",
+        nombre: "Almohadón de lactancia",
         foto: foto31,
         categoria: "almohadas",
     },
@@ -346,13 +346,13 @@ export const Productos = [
     },
     {
         id: 40,
-        nombre: "Almohada",
+        nombre: "Almohada anatómica",
         foto: foto40,
         categoria: "almohadas",
     },
     {
         id: 41,
-        nombre: "Almohada",
+        nombre: "Muñeco ballena",
         foto: foto41,
         categoria: "almohadas",
     },
@@ -430,7 +430,7 @@ export const Productos = [
     },
     {
         id: 56,
-        nombre: "Colchón",
+        nombre: "Colchón universal para coches y sillas de autos",
         foto: foto56,
         categoria: "colchones",
     },
@@ -454,13 +454,13 @@ export const Productos = [
     },
     {
         id: 57,
-        nombre: "Hamaca",
+        nombre: "Hamaca de 6 meses en adelante",
         foto: foto57,
         categoria: "juegos",
     },
     {
         id: 58,
-        nombre: "Hamaca",
+        nombre: "Hamaca de 0m en adelante",
         foto: foto58,
         categoria: "juegos",
     },
@@ -472,7 +472,7 @@ export const Productos = [
     },
     {
         id: 60,
-        nombre: "Hamaca",
+        nombre: "Hamaca de 0m en adelante",
         foto: foto60,
         categoria: "juegos",
     },
@@ -484,7 +484,7 @@ export const Productos = [
     },
     {
         id: 62,
-        nombre: "Hamaca",
+        nombre: "Muñeco decorativo",
         foto: foto62,
         categoria: "juegos",
     },
@@ -502,7 +502,7 @@ export const Productos = [
     },
     {
         id: 65,
-        nombre: "Hamaca",
+        nombre: "Muñeco oveja",
         foto: foto65,
         categoria: "juegos",
     },
@@ -526,7 +526,7 @@ export const Productos = [
     },
     {
         id: 69,
-        nombre: "Pelota montessori",
+        nombre: "Pelota nudo",
         foto: foto69,
         categoria: "juegos",
     },
@@ -568,13 +568,13 @@ export const Productos = [
     },
     {
         id: 77,
-        nombre: "Muñeco",
+        nombre: "Muñeco de apego",
         foto: foto77,
         categoria: "juegos",
     },
     {
         id: 78,
-        nombre: "Muñeco",
+        nombre: "Muñeco decorativo",
         foto: foto78,
         categoria: "juegos",
     },
@@ -649,6 +649,12 @@ export const Productos = [
         nombre: "Nidos",
         foto: foto89,
         categoria: "nidos",
+    },
+    {
+        id: 90,
+        nombre: "Nidos",
+        foto: foto90,
+        categoria: "Ropa",
     },
 
     
