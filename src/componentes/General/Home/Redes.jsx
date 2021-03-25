@@ -6,10 +6,10 @@ const Redes = () => {
     return (
         <div className="RedCont">
             <div className="RedCont-insta">
-                <a href="https://www.instagram.com/mora_babyss/">
-                    <SiInstagram className="instagram" />
+                <a target='_blank' href="https://www.instagram.com/mora_babyss/" className="name-insta" rel="noreferrer" >
+                    <SiInstagram className="instagram" />   /mora_babyss
                 </a>
-                <span className="name-insta">/mora_babyss</span>
+               
             </div>
             <div className="RedCont-cel">
                 <FiPhoneCall className="phone" />

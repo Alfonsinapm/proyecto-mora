@@ -1,19 +1,19 @@
-import foto1 from '../../assets2/Accesorios/1.jpg'
+
 import foto2 from '../../assets2/Accesorios/2.jpg'
-import foto3 from '../../assets2/Accesorios/3.jpg'
+
 import foto4 from '../../assets2/Accesorios/4.jpg'
 import foto5 from '../../assets2/Accesorios/5.jpg'
 import foto6 from '../../assets2/Accesorios/6.jpg'
 import foto7 from '../../assets2/Accesorios/7.jpg'
-import foto8 from '../../assets2/Accesorios/8.jpg'
+
 import foto9 from '../../assets2/Accesorios/9.jpg'
-import foto10 from '../../assets2/Accesorios/10.jpg'
+
 import foto11 from '../../assets2/Accesorios/11.jpg'
 import foto12 from '../../assets2/Accesorios/12.jpg'
 import foto13 from '../../assets2/Accesorios/13.jpg'
 import foto14 from '../../assets2/Accesorios/14.jpg'
 import foto15 from '../../assets2/Accesorios/15.jpg'
-import foto16 from '../../assets2/Accesorios/16.jpg'
+
 import foto17 from '../../assets2/Accesorios/17.jpg'
 import foto92 from '../../assets2/Accesorios/ca(1).jpg'
 
@@ -104,24 +104,14 @@ import foto90 from '../../assets2/niditos/ni4.jpg'
 
 
 export const Productos = [
-    {
-        id: 1,
-        nombre: "Chichonera de trenza en algodon",
-        foto: foto1,
-        categoria: "accesorios",
-    },
+ 
     {
         id: 2,
         nombre: "Chichonera",
         foto: foto2,
         categoria: "accesorios",
     },
-    {
-        id: 3,
-        nombre: "Cubrepañal y babero bandana",
-        foto: foto3,
-        categoria: "accesorios",
-    },
+    
     {
         id: 4,
         nombre: "Cubrepañal babero bandana",
@@ -146,24 +136,14 @@ export const Productos = [
         foto: foto7,
         categoria: "accesorios",
     },
-    {
-        id: 8,
-        nombre: "Cubrepañal babero bandana",
-        foto: foto8,
-        categoria: "accesorios",
-    },
+    
     {
         id: 9,
         nombre: "Cubrepañal babero bandana",
         foto: foto9,
         categoria: "accesorios",
     },
-    {
-        id: 10,
-        nombre: "Gorros",
-        foto: foto10,
-        categoria: "accesorios",
-    },
+    
     {
         id: 11,
         nombre: "Gorros",
@@ -200,12 +180,7 @@ export const Productos = [
         foto: foto92,
         categoria: "accesorios",
     },
-    {
-        id: 16,
-        nombre: "Porta chupetes",
-        foto: foto16,
-        categoria: "accesorios",
-    },
+    
     {
         id: 17,
         nombre: "Porta chupetes",
@@ -298,7 +273,7 @@ export const Productos = [
     },
     {
         id: 32,
-        nombre: "Almohada",
+        nombre: "Almohadón de lactancia",
         foto: foto32,
         categoria: "almohadas",
     },
@@ -356,12 +331,7 @@ export const Productos = [
         foto: foto41,
         categoria: "almohadas",
     },
-    {
-        id: 42,
-        nombre: "Almohada",
-        foto: foto42,
-        categoria: "almohadas",
-    },
+    
     {
         id: 43,
         nombre: "Almohada",
@@ -394,13 +364,13 @@ export const Productos = [
     },
     {
         id: 48,
-        nombre: "Almohada",
+        nombre: "Almohada anatómica",
         foto: foto48,
         categoria: "almohadas",
     },
     {
         id: 49,
-        nombre: "Almohada",
+        nombre: "Almohada anatómica",
         foto: foto49,
         categoria: "almohadas",
     },
@@ -424,7 +394,7 @@ export const Productos = [
     },
     {
         id: 52,
-        nombre: "Almohada",
+        nombre: "Almohadón de lactancia",
         foto: foto52,
         categoria: "almohadas",
     },
@@ -436,19 +406,19 @@ export const Productos = [
     },
     {
         id: 54,
-        nombre: "Colchón",
+        nombre: "Colchón universal para coches y sillas de autos",
         foto: foto54,
         categoria: "colchones",
     },
     {
         id: 55,
-        nombre: "Colchón",
+        nombre: "Colchón universal para coches y sillas de autos",
         foto: foto55,
         categoria: "colchones",
     },
     {
         id: 53,
-        nombre: "Colchón",
+        nombre: "Colchón universal para coches y sillas de autos",
         foto: foto53,
         categoria: "colchones",
     },

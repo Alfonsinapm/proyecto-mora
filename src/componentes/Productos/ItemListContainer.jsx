@@ -37,12 +37,13 @@ function ItemListContainer() {
         <section className="container" id="ItemDetailContainer">
 
             {
-                producto.length ?
+                producto.length>0 ?
                     <>
                         <div className="row" id="ItemDetail">
                             {
                                 producto.map(producto => (
                                     <ItemList
+                                        key={producto.id}
                                         producto={producto}
                                     />
                                 ))

@@ -56,7 +56,15 @@
 }
 .name-insta{
     padding: 10px;
+    text-decoration: none;
+    color: black;
 }
+.name-insta:hover{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
 .phone{
     font-size: 60px;
 }
