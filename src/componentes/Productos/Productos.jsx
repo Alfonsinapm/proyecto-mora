@@ -2,7 +2,7 @@
 import foto2 from '../../assets2/Accesorios/2.jpg'
 
 import foto4 from '../../assets2/Accesorios/4.jpg'
-import foto5 from '../../assets2/Accesorios/5.jpg'
+
 import foto6 from '../../assets2/Accesorios/6.jpg'
 import foto7 from '../../assets2/Accesorios/7.jpg'
 
@@ -15,7 +15,7 @@ import foto14 from '../../assets2/Accesorios/14.jpg'
 import foto15 from '../../assets2/Accesorios/15.jpg'
 
 import foto17 from '../../assets2/Accesorios/17.jpg'
-import foto92 from '../../assets2/Accesorios/ca(1).jpg'
+import foto1 from '../../assets2/Accesorios/ca(1).jpg'
 
 import foto18 from '../../assets2/MANTA CAPULLO/manta1.jpeg'
 import foto19 from '../../assets2/MANTA CAPULLO/manta2.jpeg'
@@ -42,7 +42,7 @@ import foto38 from '../../assets2/almohadas/a14.jpg'
 import foto39 from '../../assets2/almohadas/a15.jpg'
 import foto40 from '../../assets2/almohadas/a16.jpg'
 import foto41 from '../../assets2/almohadas/a17.jpg'
-import foto42 from '../../assets2/almohadas/a18.jpg'
+
 import foto43 from '../../assets2/almohadas/a19.jpg'
 import foto44 from '../../assets2/almohadas/a20.jpg'
 import foto45 from '../../assets2/almohadas/a21.jpg'
@@ -102,28 +102,126 @@ import foto89 from '../../assets2/niditos/ni3.jpeg'
 import foto90 from '../../assets2/niditos/ni4.jpg'
 
 
+import foto92 from '../../assets2/Accesorios/nuevo/101.jpg'
+import foto93 from '../../assets2/Accesorios/nuevo/102.jpg'
+import foto94 from '../../assets2/Accesorios/nuevo/103.jpg'
+import foto95 from '../../assets2/Accesorios/nuevo/104.jpg'
+import foto96 from '../../assets2/Accesorios/nuevo/105.jpg'
+import foto97 from '../../assets2/Accesorios/nuevo/106.jpg'
+import foto98 from '../../assets2/Accesorios/nuevo/107.jpg'
+import foto99 from '../../assets2/Accesorios/nuevo/108.jpg'
+
+import foto100 from '../../assets2/Accesorios/nuevo/109.jpg'
+import foto101 from '../../assets2/Accesorios/nuevo/110.jpg'
+import foto102 from '../../assets2/Accesorios/nuevo/111.jpg'
+import foto103 from '../../assets2/Accesorios/nuevo/112.jpg'
+import foto104 from '../../assets2/Accesorios/nuevo/113.jpg'
+import foto105 from '../../assets2/Accesorios/nuevo/114.jpg'
+import foto106 from '../../assets2/Accesorios/nuevo/115.jpg'
+import foto107 from '../../assets2/Accesorios/nuevo/116.jpg'
+import foto108 from '../../assets2/Accesorios/nuevo/117.jpg'
+import foto109 from '../../assets2/Accesorios/nuevo/118.jpg'
+import foto110 from '../../assets2/Accesorios/nuevo/119.jpg'
+import foto111 from '../../assets2/Accesorios/nuevo/120.jpg'
+import foto112 from '../../assets2/Accesorios/nuevo/121.jpg'
+import foto113 from '../../assets2/Accesorios/nuevo/122.jpg'
+import foto114 from '../../assets2/Accesorios/nuevo/123.jpg'
+import foto115 from '../../assets2/Accesorios/nuevo/124.jpg'
+import foto116 from '../../assets2/Accesorios/nuevo/125.jpg'
+import foto117 from '../../assets2/Accesorios/nuevo/126.jpg'
+import foto118 from '../../assets2/Accesorios/nuevo/127.jpg'
+import foto119 from '../../assets2/Accesorios/nuevo/128.jpg'
+import foto120 from '../../assets2/Accesorios/nuevo/129.jpg'
+import foto121 from '../../assets2/Accesorios/nuevo/130.jpg'
+import foto122 from '../../assets2/Accesorios/nuevo/131.jpg'
+import foto123 from '../../assets2/Accesorios/nuevo/132.jpg'
+import foto124 from '../../assets2/Accesorios/nuevo/133.jpg'
+import foto125 from '../../assets2/Accesorios/nuevo/134.jpg'
+import foto126 from '../../assets2/Accesorios/nuevo/135.jpg'
+import foto127 from '../../assets2/Accesorios/nuevo/136.jpg'
+import foto128 from '../../assets2/Accesorios/nuevo/137.jpg'
+import foto129 from '../../assets2/Accesorios/nuevo/138.jpg'
+import foto130 from '../../assets2/Accesorios/nuevo/139.jpg'
+import foto131 from '../../assets2/Accesorios/nuevo/140.jpg'
+import foto132 from '../../assets2/Accesorios/nuevo/141.jpg'
+import foto133 from '../../assets2/Accesorios/nuevo/142.jpg'
+import foto134 from '../../assets2/Accesorios/nuevo/143.jpg'
+import foto135 from '../../assets2/Accesorios/nuevo/144.jpg'
+import foto136 from '../../assets2/Accesorios/nuevo/145.jpg'
+import foto137 from '../../assets2/Accesorios/nuevo/146.jpg'
+import foto138 from '../../assets2/Accesorios/nuevo/147.jpg'
+import foto139 from '../../assets2/Accesorios/nuevo/148.jpg'
+import foto140 from '../../assets2/Accesorios/nuevo/149.jpg'
+import foto141 from '../../assets2/Accesorios/nuevo/150.jpg'
+import foto142 from '../../assets2/Accesorios/nuevo/151.jpg'
+import foto143 from '../../assets2/Accesorios/nuevo/152.jpg'
+import foto144 from '../../assets2/Accesorios/nuevo/153.jpg'
+import foto145 from '../../assets2/Accesorios/nuevo/154.jpg'
+
+import foto147 from '../../assets2/Accesorios/nuevo/156.jpg'
+import foto148 from '../../assets2/Accesorios/nuevo/157.jpg'
+import foto149 from '../../assets2/Accesorios/nuevo/158.jpg'
+import foto150 from '../../assets2/Accesorios/nuevo/159.jpg'
+import foto151 from '../../assets2/Accesorios/nuevo/160.jpg'
+import foto152 from '../../assets2/Accesorios/nuevo/161.jpg'
+
+// 162: Ciento sesenta y dos
+// 163: Ciento sesenta y tres
+// 164: Ciento sesenta y cuatro
+// 165: Ciento sesenta y cinco
+// 166: Ciento sesenta y seis
+// 167: Ciento sesenta y siete
+// 168: Ciento sesenta y ocho
+// 169: Ciento sesenta y nueve
+// 170: Ciento setenta
+// 171: Ciento setenta y uno
+// 172: Ciento setenta y dos
+// 173: Ciento setenta y tres
+// 174: Ciento setenta y cuatro
+// 175: Ciento setenta y cinco
+// 176: Ciento setenta y seis
+// 177: Ciento setenta y siete
+// 178: Ciento setenta y ocho
+// 179: Ciento setenta y nueve
+// 180: Ciento ochenta
+// 181: Ciento ochenta y uno
+// 182: Ciento ochenta y dos
+// 183: Ciento ochenta y tres
+// 184: Ciento ochenta y cuatro
+// 185: Ciento ochenta y cinco
+// 186: Ciento ochenta y seis
+// 187: Ciento ochenta y siete
+// 188: Ciento ochenta y ocho
+// 189: Ciento ochenta y nueve
+// 190: Ciento noventa
+// 191: Ciento noventa y uno
+// 192: Ciento noventa y dos
+// 193: Ciento noventa y tres
+// 194: Ciento noventa y cuatro
+// 195: Ciento noventa y cinco
+// 196: Ciento noventa y seis
+// 197: Ciento noventa y siete
+// 198: Ciento noventa y ocho
+// 199: Ciento noventa y nueve
+// 200: Doscientos
+
 
 export const Productos = [
- 
+
     {
         id: 2,
         nombre: "Chichonera",
         foto: foto2,
         categoria: "accesorios",
     },
-    
+
     {
         id: 4,
         nombre: "Cubrepañal babero bandana",
         foto: foto4,
         categoria: "accesorios",
     },
-    {
-        id: 5,
-        nombre: "Cubrepañal babero bandana",
-        foto: foto5,
-        categoria: "accesorios",
-    },
+
     {
         id: 6,
         nombre: "Cubrepañal babero bandana",
@@ -136,14 +234,14 @@ export const Productos = [
         foto: foto7,
         categoria: "accesorios",
     },
-    
+
     {
         id: 9,
         nombre: "Cubrepañal babero bandana",
         foto: foto9,
         categoria: "accesorios",
     },
-    
+
     {
         id: 11,
         nombre: "Gorros",
@@ -180,7 +278,7 @@ export const Productos = [
         foto: foto92,
         categoria: "accesorios",
     },
-    
+
     {
         id: 17,
         nombre: "Porta chupetes",
@@ -331,7 +429,7 @@ export const Productos = [
         foto: foto41,
         categoria: "almohadas",
     },
-    
+
     {
         id: 43,
         nombre: "Almohada",
@@ -621,11 +719,365 @@ export const Productos = [
         categoria: "nidos",
     },
     {
-        id: 90,
-        nombre: "Nidos",
-        foto: foto90,
-        categoria: "Ropa",
+        id: 91,
+        nombre: 'Moño',
+        foto: foto92,
+        categoria: 'accesorios'
+    },
+    {
+        id: 93,
+        nombre: '',
+        foto: foto93,
+        categoria: 'accesorios'
+    },
+    {
+        id: 94,
+        nombre: '',
+        foto: foto94,
+        categoria: 'accesorios'
+    },
+    {
+        id: 95,
+        nombre: '',
+        foto: foto95,
+        categoria: 'accesorios'
+    },
+    {
+        id: 96,
+        nombre: '',
+        foto: foto96,
+        categoria: 'accesorios'
+    },
+    {
+        id: 97,
+        nombre: '',
+        foto: foto97,
+        categoria: 'accesorios'
+    },
+    {
+        id: 98,
+        nombre: '',
+        foto: foto98,
+        categoria: 'accesorios'
+    },
+    {
+        id: 99,
+        nombre: '',
+        foto: foto99,
+        categoria: 'accesorios'
+    },
+    {
+        id: 100,
+        nombre: '',
+        foto: foto100,
+        categoria: 'accesorios'
+    },
+    {
+        id: 101,
+        nombre: '',
+        foto: foto101,
+        categoria: 'accesorios'
+    },
+    {
+        id: 102,
+        nombre: '',
+        foto: foto102,
+        categoria: 'accesorios'
+    },
+    {
+        id: 103,
+        nombre: '',
+        foto: foto103,
+        categoria: 'accesorios'
+    },
+    {
+        id: 104,
+        nombre: '',
+        foto: foto104,
+        categoria: 'accesorios'
+    },
+    {
+        id: 105,
+        nombre: '',
+        foto: foto105,
+        categoria: 'accesorios'
+    },
+    {
+        id: 106,
+        nombre: '',
+        foto: foto106,
+        categoria: 'accesorios'
+    },
+    {
+        id: 107,
+        nombre: '',
+        foto: foto107,
+        categoria: 'accesorios'
+    },
+    {
+        id: 108,
+        nombre: '',
+        foto: foto108,
+        categoria: 'accesorios'
+    },
+    {
+        id: 109,
+        nombre: '',
+        foto: foto109,
+        categoria: 'accesorios'
+    },
+    {
+        id: 110,
+        nombre: '',
+        foto: foto110,
+        categoria: 'accesorios'
+    },
+    {
+        id: 111,
+        nombre: '',
+        foto: foto111,
+        categoria: 'accesorios'
+    },
+    {
+        id: 112,
+        nombre: '',
+        foto: foto112,
+        categoria: 'accesorios'
+    },
+    {
+        id: 113,
+        nombre: '',
+        foto: foto113,
+        categoria: 'accesorios'
+    },
+    {
+        id: 114,
+        nombre: '',
+        foto: foto114,
+        categoria: 'accesorios'
+    },
+    {
+        id: 115,
+        nombre: '',
+        foto: foto115,
+        categoria: 'accesorios'
+    },
+    {
+        id: 116,
+        nombre: '',
+        foto: foto116,
+        categoria: 'accesorios'
+    },
+    {
+        id: 107,
+        nombre: '',
+        foto: foto117,
+        categoria: 'accesorios'
+    },
+    {
+        id: 118,
+        nombre: '',
+        foto: foto118,
+        categoria: 'accesorios'
+    },
+    {
+        id: 119,
+        nombre: '',
+        foto: foto119,
+        categoria: 'accesorios'
+    },
+    {
+        id: 120,
+        nombre: '',
+        foto: foto120,
+        categoria: 'accesorios'
+    },
+    {
+        id: 121,
+        nombre: '',
+        foto: foto121,
+        categoria: 'accesorios'
+    },
+    {
+        id: 122,
+        nombre: '',
+        foto: foto122,
+        categoria: 'accesorios'
+    },
+    {
+        id: 123,
+        nombre: '',
+        foto: foto123,
+        categoria: 'accesorios'
+    },
+    {
+        id: 124,
+        nombre: '',
+        foto: foto124,
+        categoria: 'accesorios'
+    },
+    {
+        id: 125,
+        nombre: '',
+        foto: foto125,
+        categoria: 'accesorios'
+    },
+    {
+        id: 126,
+        nombre: '',
+        foto: foto126,
+        categoria: 'accesorios'
+    },
+    {
+        id: 127,
+        nombre: '',
+        foto: foto127,
+        categoria: 'accesorios'
+    },
+    {
+        id: 128,
+        nombre: '',
+        foto: foto128,
+        categoria: 'accesorios'
+    },
+    {
+        id: 129,
+        nombre: '',
+        foto: foto129,
+        categoria: 'accesorios'
+    },
+    {
+        id: 130,
+        nombre: '',
+        foto: foto130,
+        categoria: 'accesorios'
+    },
+    {
+        id: 131,
+        nombre: '',
+        foto: foto131,
+        categoria: 'accesorios'
+    },
+    {
+        id: 132,
+        nombre: '',
+        foto: foto132,
+        categoria: 'accesorios'
+    },
+    {
+        id: 133,
+        nombre: '',
+        foto: foto133,
+        categoria: 'accesorios'
+    },
+    {
+        id: 134,
+        nombre: '',
+        foto: foto134,
+        categoria: 'accesorios'
+    },
+    {
+        id: 135,
+        nombre: '',
+        foto: foto135,
+        categoria: 'accesorios'
+    },
+    {
+        id: 136,
+        nombre: '',
+        foto: foto136,
+        categoria: 'accesorios'
+    },
+    {
+        id: 137,
+        nombre: '',
+        foto: foto137,
+        categoria: 'accesorios'
+    },
+    {
+        id: 138,
+        nombre: '',
+        foto: foto138,
+        categoria: 'accesorios'
+    },
+    {
+        id: 139,
+        nombre: '',
+        foto: foto139,
+        categoria: 'accesorios'
+    },
+    {
+        id: 140,
+        nombre: '',
+        foto: foto140,
+        categoria: 'accesorios'
+    },
+    {
+        id: 141,
+        nombre: '',
+        foto: foto141,
+        categoria: 'accesorios'
+    },
+    {
+        id: 142,
+        nombre: '',
+        foto: foto142,
+        categoria: 'accesorios'
+    },
+    {
+        id: 143,
+        nombre: '',
+        foto: foto143,
+        categoria: 'accesorios'
+    },
+    {
+        id: 144,
+        nombre: '',
+        foto: foto144,
+        categoria: 'accesorios'
+    },
+    {
+        id: 145,
+        nombre: '',
+        foto: foto145,
+        categoria: 'accesorios'
     },
 
-    
+    {
+        id: 147,
+        nombre: '',
+        foto: foto147,
+        categoria: 'accesorios'
+    },
+    {
+        id: 148,
+        nombre: '',
+        foto: foto148,
+        categoria: 'accesorios'
+    },
+    {
+        id: 149,
+        nombre: '',
+        foto: foto149,
+        categoria: 'accesorios'
+    },
+    {
+        id: 150,
+        nombre: '',
+        foto: foto150,
+        categoria: 'accesorios'
+    },
+    {
+        id: 151,
+        nombre: '',
+        foto: foto151,
+        categoria: 'accesorios'
+    },
+    {
+        id: 152,
+        nombre: '',
+        foto: foto152,
+        categoria: 'accesorios'
+    }
+
 ]

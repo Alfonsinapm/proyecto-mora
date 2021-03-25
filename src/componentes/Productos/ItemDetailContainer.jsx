@@ -33,19 +33,16 @@ const ItemDetailContainer = () => {
                 producto !=null ?
                     <div className="container-fluid" id="ItemDetail">
                         {
-                            
                                 <ItemDetail
                                     key={producto.id}
                                     img={producto.foto}
                                     nombre={producto.nombre}
                                 />
-                           
                         }
                     </div>
                     :
-                    <p className="mensaje">No existe ese producto...</p>
+                    <p className="mensaje">No existe ese producto</p>
             }
-
         </section>
     )
 
