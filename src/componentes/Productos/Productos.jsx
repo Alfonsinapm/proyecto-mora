@@ -726,358 +726,363 @@ export const Productos = [
     },
     {
         id: 93,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto93,
         categoria: 'accesorios'
     },
     {
         id: 94,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto94,
         categoria: 'accesorios'
     },
     {
         id: 95,
-        nombre: '',
+        nombre: 'Carpa',
         foto: foto95,
         categoria: 'accesorios'
     },
     {
         id: 96,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto96,
         categoria: 'accesorios'
     },
     {
         id: 97,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto97,
         categoria: 'accesorios'
     },
     {
         id: 98,
-        nombre: '',
+        nombre: 'Moño',
         foto: foto98,
         categoria: 'accesorios'
     },
     {
         id: 99,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto99,
         categoria: 'accesorios'
     },
     {
         id: 100,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto100,
         categoria: 'accesorios'
     },
     {
         id: 101,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto101,
         categoria: 'accesorios'
     },
     {
         id: 102,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto102,
         categoria: 'accesorios'
     },
     {
         id: 103,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto103,
         categoria: 'accesorios'
     },
     {
         id: 104,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto104,
         categoria: 'accesorios'
     },
     {
         id: 105,
-        nombre: '',
+        nombre: 'Moñitos',
         foto: foto105,
         categoria: 'accesorios'
     },
     {
         id: 106,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto106,
         categoria: 'accesorios'
     },
     {
         id: 107,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto107,
         categoria: 'accesorios'
     },
     {
         id: 108,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto108,
         categoria: 'accesorios'
     },
     {
         id: 109,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto109,
         categoria: 'accesorios'
     },
     {
         id: 110,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto110,
         categoria: 'accesorios'
     },
     {
         id: 111,
-        nombre: '',
+        nombre: 'Carpa',
         foto: foto111,
         categoria: 'accesorios'
     },
     {
         id: 112,
-        nombre: '',
+        nombre: 'Carpa',
         foto: foto112,
         categoria: 'accesorios'
     },
     {
         id: 113,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto113,
         categoria: 'accesorios'
     },
     {
         id: 114,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto114,
         categoria: 'accesorios'
     },
     {
         id: 115,
-        nombre: '',
+        nombre: 'Moñito',
         foto: foto115,
         categoria: 'accesorios'
     },
     {
         id: 116,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto116,
         categoria: 'accesorios'
     },
     {
-        id: 107,
-        nombre: '',
+        id: 117,
+        nombre: 'Bandana',
         foto: foto117,
         categoria: 'accesorios'
     },
     {
         id: 118,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto118,
         categoria: 'accesorios'
     },
     {
         id: 119,
-        nombre: '',
+        nombre: 'Moñito',
         foto: foto119,
         categoria: 'accesorios'
     },
     {
         id: 120,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto120,
         categoria: 'accesorios'
     },
     {
         id: 121,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto121,
         categoria: 'accesorios'
     },
     {
         id: 122,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto122,
         categoria: 'accesorios'
     },
     {
         id: 123,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto123,
         categoria: 'accesorios'
     },
     {
         id: 124,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto124,
         categoria: 'accesorios'
     },
     {
         id: 125,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto125,
         categoria: 'accesorios'
     },
     {
         id: 126,
-        nombre: '',
+        nombre: 'Broches moñito',
         foto: foto126,
         categoria: 'accesorios'
     },
     {
         id: 127,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto127,
         categoria: 'accesorios'
     },
     {
         id: 128,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto128,
         categoria: 'accesorios'
     },
     {
         id: 129,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto129,
         categoria: 'accesorios'
     },
     {
         id: 130,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto130,
         categoria: 'accesorios'
     },
     {
         id: 131,
-        nombre: '',
+        nombre: 'Vincha',
         foto: foto131,
         categoria: 'accesorios'
     },
     {
         id: 132,
-        nombre: '',
+        nombre: 'Vincha',
         foto: foto132,
         categoria: 'accesorios'
     },
     {
         id: 133,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto133,
         categoria: 'accesorios'
     },
     {
         id: 134,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto134,
         categoria: 'accesorios'
     },
     {
         id: 135,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto135,
         categoria: 'accesorios'
     },
     {
         id: 136,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto136,
         categoria: 'accesorios'
     },
     {
         id: 137,
-        nombre: '',
+        nombre: 'Portachupetes',
         foto: foto137,
         categoria: 'accesorios'
     },
     {
         id: 138,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto138,
         categoria: 'accesorios'
     },
     {
         id: 139,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto139,
         categoria: 'accesorios'
     },
     {
         id: 140,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto140,
         categoria: 'accesorios'
     },
     {
         id: 141,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto141,
         categoria: 'accesorios'
     },
     {
         id: 142,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto142,
         categoria: 'accesorios'
     },
     {
         id: 143,
-        nombre: '',
+        nombre: 'Porta chupetes',
         foto: foto143,
         categoria: 'accesorios'
     },
     {
         id: 144,
-        nombre: '',
+        nombre: 'Vincha',
         foto: foto144,
         categoria: 'accesorios'
     },
     {
         id: 145,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto145,
         categoria: 'accesorios'
     },
 
     {
         id: 147,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto147,
         categoria: 'accesorios'
     },
     {
         id: 148,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto148,
         categoria: 'accesorios'
     },
     {
         id: 149,
-        nombre: '',
+        nombre: 'Moñitos',
         foto: foto149,
         categoria: 'accesorios'
     },
     {
         id: 150,
-        nombre: '',
+        nombre: 'Babero',
         foto: foto150,
         categoria: 'accesorios'
     },
     {
         id: 151,
-        nombre: '',
+        nombre: 'Bandana',
         foto: foto151,
         categoria: 'accesorios'
     },
     {
         id: 152,
-        nombre: '',
+        nombre: 'Broche moñito',
         foto: foto152,
         categoria: 'accesorios'
+    },
+    {
+        id: 153,
+        nombre: 'Capelina',
+        foto: foto1,
+        categoria: 'accesorios'
     }
-
 ]

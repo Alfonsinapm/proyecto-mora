@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function ItemList({ producto }) {
     return (
 
-        <article className="mx-auto  col-12 col-md-4 art">
+        <article className="mx-auto  col-12 col-md-4 art ">
             <div className="itemCard">
                 <figure>
                     <img className="img-fluid fotoItemList" src={`${producto.foto}`} alt=""></img>

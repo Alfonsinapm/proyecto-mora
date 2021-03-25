@@ -31,7 +31,7 @@ const ItemDetailContainer = () => {
         <section className="container contTotal">
             {
                 producto !=null ?
-                    <div className="container-fluid" id="ItemDetail">
+                    <div className="row" id="ItemDetail">
                         {
                                 <ItemDetail
                                     key={producto.id}
@@ -43,6 +43,7 @@ const ItemDetailContainer = () => {
                     :
                     <p className="mensaje">No existe ese producto</p>
             }
+
         </section>
     )
 

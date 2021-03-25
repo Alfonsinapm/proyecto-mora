@@ -39,7 +39,7 @@ function ItemListContainer() {
             {
                 producto.length>0 ?
                     <>
-                        <div className="row" id="ItemDetail">
+                        <div className="row" id="ItemDetail ">
                             {
                                 producto.map(producto => (
                                     <ItemList
