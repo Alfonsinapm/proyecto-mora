@@ -165,45 +165,16 @@ import foto150 from '../../assets2/Accesorios/nuevo/159.jpg'
 import foto151 from '../../assets2/Accesorios/nuevo/160.jpg'
 import foto152 from '../../assets2/Accesorios/nuevo/161.jpg'
 
-// 162: Ciento sesenta y dos
-// 163: Ciento sesenta y tres
-// 164: Ciento sesenta y cuatro
-// 165: Ciento sesenta y cinco
-// 166: Ciento sesenta y seis
-// 167: Ciento sesenta y siete
-// 168: Ciento sesenta y ocho
-// 169: Ciento sesenta y nueve
-// 170: Ciento setenta
-// 171: Ciento setenta y uno
-// 172: Ciento setenta y dos
-// 173: Ciento setenta y tres
-// 174: Ciento setenta y cuatro
-// 175: Ciento setenta y cinco
-// 176: Ciento setenta y seis
-// 177: Ciento setenta y siete
-// 178: Ciento setenta y ocho
-// 179: Ciento setenta y nueve
-// 180: Ciento ochenta
-// 181: Ciento ochenta y uno
-// 182: Ciento ochenta y dos
-// 183: Ciento ochenta y tres
-// 184: Ciento ochenta y cuatro
-// 185: Ciento ochenta y cinco
-// 186: Ciento ochenta y seis
-// 187: Ciento ochenta y siete
-// 188: Ciento ochenta y ocho
-// 189: Ciento ochenta y nueve
-// 190: Ciento noventa
-// 191: Ciento noventa y uno
-// 192: Ciento noventa y dos
-// 193: Ciento noventa y tres
-// 194: Ciento noventa y cuatro
-// 195: Ciento noventa y cinco
-// 196: Ciento noventa y seis
-// 197: Ciento noventa y siete
-// 198: Ciento noventa y ocho
-// 199: Ciento noventa y nueve
-// 200: Doscientos
+import foto153 from '../../assets2/MORA MOBILIARIO/1.jpeg'
+import foto154 from '../../assets2/MORA MOBILIARIO/2.jpeg'
+import foto155 from '../../assets2/MORA MOBILIARIO/3.jpeg'
+import foto156 from '../../assets2/MORA MOBILIARIO/4.jpeg'
+import foto157 from '../../assets2/MORA MOBILIARIO/5.jpeg'
+import foto158 from '../../assets2/MORA MOBILIARIO/6.jpeg'
+import foto159 from '../../assets2/MORA MOBILIARIO/7.jpeg'
+import foto160 from '../../assets2/MORA MOBILIARIO/8.jpeg'
+
+
 
 
 export const Productos = [
@@ -1081,8 +1052,52 @@ export const Productos = [
     },
     {
         id: 153,
-        nombre: 'Capelina',
-        foto: foto1,
-        categoria: 'accesorios'
+        nombre: 'Perchero iris',
+        foto: foto153,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 154,
+        nombre: 'Mueble casita',
+        foto: foto154,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 155,
+        nombre: 'Mesa de luz',
+        foto: foto155,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 156,
+        nombre: 'Ta te ti',
+        foto: foto156,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 157,
+        nombre: 'Mesa más módulos sillones',
+        foto: foto157,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 158,
+        nombre: 'Arcoíris decorativo',
+        foto: foto158,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 160,
+        nombre: 'Arcoíris decorativo',
+        foto: foto160,
+        categoria: 'mobiliario'
+    },
+    {
+        id: 159,
+        nombre: 'Estante volcán',
+        foto: foto159,
+        categoria: 'mobiliario'
     }
+    
+
 ]

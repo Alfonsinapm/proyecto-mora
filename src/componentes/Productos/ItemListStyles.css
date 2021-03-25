@@ -41,12 +41,15 @@
 .detailContainer-imgFigure {
     /* width: 50%; */
     padding: 30px;
+    /* width: 340px;
+  height: 453px; */
 }
 
 .art {
     margin: 20px;
     box-shadow: 3px 3px 70px 10px rgb(219, 217, 217);
     padding: 20px;
+    position: relative;
 }
 /* @media (min-width: 240px) and (max-width:426){
     .ItemDetail{
@@ -93,3 +96,4 @@
     border: none;
     box-shadow:  0 0 0 2px #cf002d
 }
+

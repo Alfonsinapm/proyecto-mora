@@ -5,7 +5,7 @@ import Footer from './componentes/General/Footer/Footer'
 import Error from './componentes/General/Error/Error'
 import ItemListContainer from './componentes/Productos/ItemListContainer'
 import ItemDetailContainer from './componentes/Productos/ItemDetailContainer'
-
+import './index.css'
 function App() {
   return (
     <BrowserRouter>
