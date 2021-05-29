@@ -1,13 +1,14 @@
-import logo from '../../../assets2/logo.png'
-import './Header.css'
-import React from 'react'
-import { Link } from 'react-router-dom'
+import logo from "../../../assets2/logo.png";
+import "./Header.css";
+import React from "react";
+import { Link } from "react-router-dom";
+import { Container, Row, Col } from 'reactstrap';
+import { useState } from "react";
 
 const Header = () => {
     return (
         <header className="header">
             <figure className="figure">
-                
                 <Link to="/"> <img src={logo} alt="logo" className="figure-logo" />
                     </Link>
             </figure>
@@ -28,5 +29,3 @@ const Header = () => {
 }
 
 export default Header
-
-

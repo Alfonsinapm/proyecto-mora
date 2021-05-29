@@ -1,10 +1,11 @@
 import './ItemListStyles.css'
 import { Link } from 'react-router-dom'
+import {Col} from "reactstrap"; 
 
 function ItemList({ producto }) {
     return (
 
-        <article className="mx-auto  col-12 col-md-4 art ">
+        <Col xs="12" lg="4" className="mx-auto art">
             <div className="itemCard">
                 <figure>
                     <img className="img-fluid fotoItemList" src={`${producto.foto}`} alt=""></img>
@@ -14,7 +15,7 @@ function ItemList({ producto }) {
                     <Link to={`/item/${producto.id}`} className="ver">ver</Link>
                 </div>
             </div>
-        </article>
+        </Col>
 
     )
 }

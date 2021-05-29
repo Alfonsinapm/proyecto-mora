@@ -15,7 +15,7 @@ import foto14 from '../../assets2/Accesorios/14.jpg'
 import foto15 from '../../assets2/Accesorios/15.jpg'
 
 import foto17 from '../../assets2/Accesorios/17.jpg'
-import foto1 from '../../assets2/Accesorios/ca(1).jpg'
+
 
 import foto18 from '../../assets2/MANTA CAPULLO/manta1.jpeg'
 import foto19 from '../../assets2/MANTA CAPULLO/manta2.jpeg'

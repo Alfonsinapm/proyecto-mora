@@ -1,15 +1,14 @@
 import { useState, useEffect } from 'react';
 import {Productos} from './Productos'
 import ItemList from './ItemList';
-
+import {Container, Row} from "reactstrap"; 
 import { useParams } from 'react-router-dom';
 
 function ItemListContainer() {
     const [producto, setProductos] = useState([]);
-
     const { categ } = useParams();
     
-
+ 
     const promesaProd = new Promise((resolve, reject) => {
         resolve(Productos);
         reject(new Error('fail')).then(function() {
@@ -34,12 +33,12 @@ function ItemListContainer() {
         [categ]
     )
     return (
-        <section className="container" id="ItemDetailContainer">
+        <Container className="container" id="ItemDetailContainer">
 
             {
                 producto.length>0 ?
                     <>
-                        <div className="row" id="ItemDetail ">
+                        <Row className="row" id="ItemDetail ">
                             {
                                 producto.map(producto => (
                                     <ItemList
@@ -48,12 +47,12 @@ function ItemListContainer() {
                                     />
                                 ))
                             }
-                        </div>
+                        </Row>
                     </> :
                     <p className="mensaje">Cargando productos...</p>
             }
 
-        </section>
+        </Container>
     )
 }
 
