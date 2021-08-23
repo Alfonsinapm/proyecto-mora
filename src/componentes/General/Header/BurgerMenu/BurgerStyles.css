@@ -1,0 +1,123 @@
+/* .burgerIcon{
+    font-size: 40px;
+    color: hotpink;
+    padding-left: 10px;
+}
+.close{
+    display: none;
+}
+.open{
+    display: block;
+}
+.burgerCart{
+    width: 100%;
+    position: absolute;
+    bottom:50px;
+    left:0px;
+    background-color: blueviolet;
+    z-index: 300;
+}
+.ulBurger{
+    z-index: 200;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.burgerLi{
+    color: chocolate;
+    text-align: start;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 300ms;
+    display: block;
+    font-family: "Bebas Neue";
+    letter-spacing: 2px;
+    width: 100%;
+    list-style: none;
+}
+.burgerLi:hover{
+    text-decoration: none;
+    color: blueviolet;
+    padding-left: 10px;
+    list-style: none;
+} */
+/* .cont-padre-burger{
+    position: relative;
+} */
+
+/* -------------------------------------------------------------------------------------------------------------------- */
+
+.close {
+  display: none;
+}
+.open {
+  display: block;
+}
+
+.burgerIcon {
+  font-size: 40px;
+  color: #f4305b;
+  /* color: hotpink; */
+  position: absolute;
+  top: 180px;
+  left: 20px;
+}
+
+.ulBurger {
+  width: 100%;
+  /* background-color: antiquewhite; */
+  height: fit-content;
+  
+}
+
+.liBurger {
+  text-decoration: none;
+}
+
+.burgerLink {
+  color: #f4305b;
+  text-decoration: none;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: "Poppins", sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.burgerLink:hover {
+  color: #f4305b;
+  text-decoration: none;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: "Poppins", sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 20px;
+  letter-spacing: 2px;
+  transform: scale(1.2, 1.2);
+  text-transform: uppercase;
+  padding-left: 60px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+@media (min-width: 575px) and (max-width: 768px) {
+  .ulBurger {
+    width: 100%;
+    /* background-color: antiquewhite; */
+    
+    position: absolute;
+    top: 300px;
+    left: 50px;
+  }
+  .burgerIcon {
+    font-size: 60px;
+    color: #f4305b;
+    /* color: hotpink; */
+    position: absolute;
+    top: 220px;
+    left: 40px;
+  }
+}

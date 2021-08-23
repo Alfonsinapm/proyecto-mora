@@ -1,8 +1,9 @@
 import {GiHamburgerMenu} from 'react-icons/gi';
+import './BurgerStyles.css';
 
 const BurgerCart = ({ action }) => {
     return (
-        <div>
+        <div className="">
             <GiHamburgerMenu className="burgerIcon" onClick={action} />
         </div>
     )

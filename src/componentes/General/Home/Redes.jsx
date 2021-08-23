@@ -9,7 +9,6 @@ const Redes = () => {
                 <a target='_blank' href="https://www.instagram.com/mora_babyss/" className="name-insta" rel="noreferrer" >
                     <SiInstagram className="instagram" />   /mora_babyss
                 </a>
-               
             </div>
             <div className="RedCont-cel">
                 <FiPhoneCall className="phone" />

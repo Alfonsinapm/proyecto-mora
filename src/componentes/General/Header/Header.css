@@ -1,4 +1,4 @@
-.header{
+/* .header{
     display: flex;
     background-color: white;
     width: 100%;
@@ -66,4 +66,69 @@ li:hover{
     text-decoration: none;
     transform: scale(1.2, 1.2);
     border-bottom: solid 2px #f4305b;
+} */
+
+/*-----------------------------------------------------------------------------*/
+
+.figure-logo {
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
 }
+
+.nav-header {
+  margin-top: 40px;
+  width: 100%;
+}
+.ul-header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.liHeader{
+   margin: 10px;
+   font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.liHeader:hover{
+    text-decoration: none;
+    transform: scale(1.2, 1.2);
+}
+ul li{
+  list-style: none; 
+}
+
+.linkHeader{
+   text-decoration: none; 
+   color: gray; 
+}
+.linkHeader:hover{
+    text-decoration: none;
+    transform: scale(1.2, 1.2);
+    color: gray; 
+    border-bottom: solid 2px #f4305b;
+}
+
+@media(max-width:575px){
+    .figure-logo {
+        margin-top: 10px;
+        width: 200px;
+        height: 200px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+}
+@media (min-width: 575px) and (max-width: 768px) {
+    .figure-logo {
+        margin-top: 10px;
+        width: 220px;
+        height: 220px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+  }

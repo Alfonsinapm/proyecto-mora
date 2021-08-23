@@ -1,29 +1,39 @@
 import logo from "../../../assets2/logo.png";
 import "./Header.css";
-import React from "react";
+import BurgerMenuContainer from './BurgerMenu/BurgerMenuContainer'
 import { Link } from "react-router-dom";
 import { Container, Row, Col } from 'reactstrap';
-import { useState } from "react";
+
 
 const Header = () => {
     return (
-        <header className="header">
-            <figure className="figure">
-                <Link to="/"> <img src={logo} alt="logo" className="figure-logo" />
-                    </Link>
-            </figure>
-            <nav className="nav">
-                <ul className="nav-ul">
-                    <Link className="liHeader" to={"/categoria/accesorios"}>accesorios</Link>
-                    <Link className="liHeader" to={"/categoria/mantas"}>mantas</Link>
-                    <Link className="liHeader" to={"/categoria/almohadas"}>almohadones</Link>
-                    <Link className="liHeader" to={"/categoria/colchones"}>colchones</Link>
-                    <Link className="liHeader" to={"/categoria/juegos"}>juegos</Link>
-                    <Link className="liHeader" to={"/categoria/mobiliario"}>mobiliario</Link>
-                    <Link className="liHeader" to={"/categoria/nidos"}>nidos</Link>
-                    <Link className="liHeader" to={"/categoria/ropa"}>ropa</Link>
-                </ul>
-            </nav>
+        <header className="header-container">
+            <Container>
+                <Row>
+                    <Col xs="12" lg="1" className=""><figure className="figure-logo">
+                        <Link to="/"> <img src={logo} alt="logo" className="img-fluid" />
+                        </Link>
+                    </figure></Col>
+                    <Col xs="12" md="11"><nav className="nav-header d-none d-lg-block">
+                        <ul className="ul-header">
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/accesorios"}>accesorios</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/mantas"}>mantas</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/almohadas"}>almohadones</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/colchones"}>colchones</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/juegos"}>juegos</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/mobiliario"}>mobiliario</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/nidos"}>nidos</Link></li>
+                            <li className="liHeader"><Link className="linkHeader" to={"/categoria/ropa"}>ropa</Link></li>
+                        </ul>
+                    </nav></Col>
+                </Row>
+            </Container>
+
+
+            <div className="d-lg-none">
+                <BurgerMenuContainer />
+            </div>
+
         </header>
     )
 }

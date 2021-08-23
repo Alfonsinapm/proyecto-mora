@@ -33,8 +33,7 @@ function ItemListContainer() {
         [categ]
     )
     return (
-        <Container className="container" id="ItemDetailContainer">
-
+        <Container className="container ItemListContainer">
             {
                 producto.length>0 ?
                     <>
@@ -51,7 +50,6 @@ function ItemListContainer() {
                     </> :
                     <p className="mensaje">Cargando productos...</p>
             }
-
         </Container>
     )
 }

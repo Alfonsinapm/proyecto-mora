@@ -3,6 +3,7 @@ import foto2 from '../../../assets2/2.jpg'
 import foto3 from '../../../assets2/3.jpg'
 import foto4 from '../../../assets2/4.jpg'
 import foto5 from '../../../assets2/5.jpeg'
+import './Home.css'
 
 import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'

@@ -38,7 +38,6 @@
 }
 
 .RedCont{
-    
     display: flex;
     text-align: center;
     justify-content: center;
@@ -77,7 +76,13 @@
 .compRedes{
     margin-left: auto;
     margin-right: auto;
+    margin-top: 400px;
 }
 .RedCont-insta{
     cursor: pointer;
+}
+
+.home-container{
+    margin-top: 100px;
+    height: fit-content;
 }
